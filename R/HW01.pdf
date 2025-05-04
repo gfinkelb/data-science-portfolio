@@ -1,0 +1,16 @@
+---
+title: "HW01"
+author: "Greg Finkelberg"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+Identify the population and sample in this clinical trial.
+The population in this clinical trial is all adults (18 years or older) residing within the United States. The sample is the 30,000 randomly selected adults that were enrolled in this study. The researchers used a stratified sampling method.
+Identify three confounding variables in this clinical trial.
+1.	Race/Ethnicity
+2.	Age
+3.	Geography
+Discuss the potential effects of the confounding variables if not handled correctly.
+Race/Ethnicity – Different cultural views on vaccinations and healthcare can impact the rate at which different races and ethnicities get vaccinated. For example, majority African American communities tend to have lower vaccination rates than Caucasian ones. This can affect heard immunity and overall efficacy of the vaccine in these areas. Additionally, populations with different genetics could possibly see different immune responses to vaccinations.
+Age – Though the sample is limited to adults, there could be a major difference in vaccine efficacy among younger subjects (18-40 year olds), middle-aged subjects (40-65), and elderly subjects (65+). Younger people would likely have a stronger immune response to vaccinations and would have fewer compounding health issues. 
+Geography – Looking at the map of sampling locations, most of them appear to be in high density, urban areas. While COVID-19 can spread more rapidly in these areas, people inhabiting urban areas tend to get vaccinated at a higher rate which should increase efficacy and reduce the severity of infections. Not including subjects from rural areas where vaccination rates are lower could make it seem like the vaccine is more efficacious than it actually is. People in urban areas tend to have more immediate access to clinical care and treatments as well, so this could impact the perceived severity of infections.
